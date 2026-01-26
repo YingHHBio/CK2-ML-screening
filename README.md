@@ -11,6 +11,10 @@ This repository is organized by manuscript figures.
   Code and data for Supplementary Figure 3.
 - `figures/supplementary_figure_4/`  
   Code and data for Supplementary Figure 4.
+- `figures/supplementary_figure_5/`  
+  Code and data for Supplementary Figure 5.
+- `figures/supplementary_figure_6/`  
+  Code and data for Supplementary Figure 6.
 
 Each folder contains a Jupyter notebook and the corresponding processed datasets.
 
