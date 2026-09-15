@@ -3,18 +3,18 @@ Machine learning pipeline and processed datasets for screening novel CK2 inhibit
 ## Repository structure
 This repository is organized by manuscript figures.
 
-- `figures/Figure_1D/`  
-  Code and data used to generate Figure 1D.
-- `figures/supplementary_figure_2/`  
-  Code and data for Supplementary Figure 2.
-- `figures/supplementary_figure_3/`  
-  Code and data for Supplementary Figure 3.
-- `figures/supplementary_figure_4/`  
-  Code and data for Supplementary Figure 4.
+- `figures/Figure_2D/`  
+  Code and data used to generate Figure 2D.
 - `figures/supplementary_figure_5/`  
   Code and data for Supplementary Figure 5.
 - `figures/supplementary_figure_6/`  
   Code and data for Supplementary Figure 6.
+- `figures/supplementary_figure_7/`  
+  Code and data for Supplementary Figure 7.
+- `figures/supplementary_figure_8/`  
+  Code and data for Supplementary Figure 8.
+- `figures/supplementary_figure_9/`  
+  Code and data for Supplementary Figure 9.
 
 Each folder contains a Jupyter notebook and the corresponding processed datasets.
 
